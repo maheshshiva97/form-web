@@ -68,7 +68,7 @@ label {
 }
 
 .label_upload {
-    border: 2px dashed var(--border);
+    border: 1px dashed var(--border);
     border-radius: 25px;
     background-color: var(--border-bg);
 }
@@ -95,7 +95,7 @@ label.form_label.label_label {
 }
 .form-select:focus {
     box-shadow: none;
-    border: 2px solid var(--text-primary);
+    border: 1px solid var(--text-primary);
 }
 
 .form-select {
